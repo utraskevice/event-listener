@@ -1,0 +1,21 @@
+* {
+  background: greenyellow;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+button,
+input {
+  border: none;
+  padding: 5px 20px;
+  text-transform: uppercase;
+  color: grey;
+  margin: 20px;
+  font-size: 20px;
+}
+
+button:hover,
+input:hover {
+  border-radius: 10px;
+  border: 2px solid green;
+}
